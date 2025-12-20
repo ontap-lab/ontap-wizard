@@ -1,7 +1,12 @@
-name="Kodisky"
-version="1.1"
-url="https://github.com/ontap-lab/ontap-lab.github.io/releases/download/v1.1/Kodisky.zip"
-kodi="21.2"
-icon="https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/icon.png"
-fanart="https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/fanart.png"
-description="This is a Fun Sky build based around a modded version of the estuary skin."
+<builds>
+  <build>
+    <name>Kodisky</name>
+    <version>1.1</version>
+    <kodi>21.2</kodi>
+    <size>55MB</size>
+    <url>https://github.com/ontap-lab/ontap-lab.github.io/releases/download/v1.1/Kodisky.zip</url>
+    <icon>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/icon.png</icon>
+    <fanart>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/fanart.png</fanart>
+    <description>This is a Fun Sky build based around a modded version of the estuary skin.</description>
+  </build>
+</builds>
