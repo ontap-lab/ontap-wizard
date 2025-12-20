@@ -1,13 +1,5 @@
 <builds>
-  <build>
-    <name>[COLOR dodgerblue]---- 0ntap's Basic Builds ----[/COLOR]</name>
-    <kodi>K21</kodi>
-    <url>http://</url> <!-- placeholder URL to avoid empty -->
-    <icon>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/icon.jpg</icon>
-    <fanart>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/fanart.jpg</fanart>
-    <description>All builds under 100MB! Only 3 Video Add-ons included.</description>
-  </build>
-  <build>
+<build>
     <name>Kodisky</name>
     <version>1.1</version>
     <kodi>K21</kodi>
