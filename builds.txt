@@ -11,13 +11,15 @@
   </build>
   
   <build>
-    <name>Titan Blu</name>
-    <version>99.0.0</version>
-    <kodi>21.2</kodi>
-    <size>230MB</size>
-    <url>https://github.com/ontap-lab/ontap-lab.github.io/releases/tag/v99.0.0</url>
-    <icon>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/icon.png</icon>
-    <fanart>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/fanart.png</fanart>
-    <description>This is a windows 10 build based around a modded version of the titan vanilla skin, originally modded by Cman (RIP).</description>
-  </build>
+  <name>Titan Blu</name>
+  <version>99.0.0</version>
+  <kodi>21.2</kodi>
+  <size>230MB</size>
+  <url>https://github.com/ontap-lab/ontap-lab.github.io/releases/download/v99.0.0/Titan%20Blu.zip</url>
+  <skin>skin.titan.vanilla</skin>
+  <icon>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/icon.png</icon>
+  <fanart>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/fanart.png</fanart>
+  <description>This is a windows 10 build based around a modded version of the titan vanilla skin, originally modded by Cman (RIP).</description>
+</build>
+
 </builds>
