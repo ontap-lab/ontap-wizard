@@ -15,7 +15,7 @@
   <version>99.0.0</version>
   <kodi>21.2</kodi>
   <size>230MB</size>
-  <url>https://github.com/ontap-lab/ontap-lab.github.io/releases/download/v99.0.0/Titan%20Blu.zip</url>
+  <url>https://github.com/ontap-lab/ontap-lab.github.io/releases/download/v99.0.0/Titan.Blu.zip</url>
   <skin>skin.titan.vanilla</skin>
   <icon>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/icon.png</icon>
   <fanart>https://raw.githubusercontent.com/ontap-lab/ontap-wizard/main/artwork/fanart.png</fanart>
